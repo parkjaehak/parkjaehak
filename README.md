@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **parkjaehak/parkjaehak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 -->
 
+
+### Hi there 👋
+I’m currently learning backend engineering.
+
+
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html" target="_blank"><img src="https://img.shields.io/badge/Java-008FC7?style=flat-square&logo=Java&logoColor=white"/></a>
+
 
