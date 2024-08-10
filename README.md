@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-Currently learning backend engineering.
+Keep Learning.
 
 
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
