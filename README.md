@@ -22,7 +22,7 @@
 
   <h2>Experience</h2>
   <ul>
-    <li>KEA SW Academy $\rm{  [2024.09 - Present] }$</li>
+    <li>KEA (Kakao Enterprise Software Academy) $\rm{  [2024.09 - Present] }$</li>
     <li>Gachon University $\rm{  [2018.03 - 2025.02] }$</li>
   </ul>
  
