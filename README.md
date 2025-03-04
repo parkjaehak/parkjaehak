@@ -27,10 +27,13 @@
     <li>Gachon University $\rm{  [2018.03 - 2025.02] }$</li>
   </ul>
  
-   <h2>Algorithm</h2>
-    <a href="https://solved.ac/profile/atom8426" target="_blank">
+<!--
+<h2>Algorithm</h2>
+<a href="https://solved.ac/profile/atom8426" target="_blank">
     <img src="http://mazandi.herokuapp.com/api?handle=atom8426&theme=warm" alt="Algorithm Image"/>
-    </a>
+</a>
+-->
+
 
   
 </section>
