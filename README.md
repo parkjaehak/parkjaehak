@@ -14,9 +14,9 @@
   
   <h2>Project</h2>
   <ul>
-    <li><a href="https://github.com/EduBill/edubill-api" target="_blank">Edubill - 학원비 정산을 한눈에 확인하는 서비스</a> $\rm{  [2024.01 - 2024.08] }$
+    <li><a href="https://github.com/EduBill/edubill-api" target="_blank">Edubill - 학원비 정산을 한눈에 확인할 수 있는 서비스</a> $\rm{  [2024.01 - 2024.08] }$
     <li><a href="https://github.com/Xeat-KEA/CodingText-FrontEnd" target="_blank">CodingText - 알고리즘 문제풀이 커뮤니티 서비스 </a> $\rm{  [2024.09 - 2024.12] }$
-    <li><a href="https://github.com/TaskFlow-CLAP" target="_blank">TaskFlow - 사내 TMS (Ticket Management System) </a> $\rm{  [2025.01 - 2025.02] }$
+    <li><a href="https://github.com/TaskFlow-CLAP" target="_blank">TaskFlow - 업무 통합 관리 솔루션 (Ticket Management System) </a> $\rm{  [2025.01 - 2025.02] }$
       </span>
     </li>
   </ul>
