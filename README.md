@@ -6,7 +6,7 @@
   [![Java](https://img.shields.io/badge/Java-008FC7?style=flat-square&logo=Java&logoColor=white)](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
   [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/documentation/)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://docs.docker.com/build-cloud/)
-  [![React](https://img.shields.io/badge/React-FF4154?style=flat-square&logo=React&logoColor=white)](https://ko.legacy.reactjs.org/docs/getting-started.html)
+  [![React](https://img.shields.io/badge/Javascript-grey?style=flat-square&logo=javascript)](https://developer.mozilla.org/ko/docs/Web/API/Document/)
 
 
 
