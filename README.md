@@ -19,7 +19,7 @@
 
 ## Experience
 
-- **KEA (Kakao Enterprise Software Academy)** `[2024.09 - 2025.02]`
+- **KEA 5th (Kakao Enterprise Software Academy)** `[2024.09 - 2025.02]`
 - **Gachon University** `[2018.03 - 2025.02]`
 
 <!--
