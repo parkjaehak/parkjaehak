@@ -23,7 +23,7 @@
 
 - [TaskFlow - 업무 통합 관리 솔루션 (Ticket Management System)](https://github.com/TaskFlow-CLAP) `[2025.01 - 2025.02]`
 - [CodingText - 알고리즘 문제풀이 커뮤니티 서비스](https://github.com/Xeat-KEA/CodingText-FrontEnd) `[2024.09 - 2024.12]`
-- [Edubill - 학원비 정산을 한눈에 확인할 수 있는 서비스](https://github.com/EduBill/edubill-api) `[2024.01 - 2024.08]`
+- [EduBill - 학원비 정산을 한눈에 확인할 수 있는 서비스](https://github.com/EduBill/edubill-api) `[2024.01 - 2024.08]`
 
 
 ## Experience
