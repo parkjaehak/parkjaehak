@@ -34,9 +34,9 @@
 
 
 ## Experience
-
-- **KEA 5th (Kakao Enterprise Software Academy)** `[2024.09 - 2025.02]`
-- **Gachon University** `[2018.03 - 2025.02]`
+- **LG Aimers 7th** `[2025.07 - 진행 중]`
+- **Kakao Enterprise Software Academy 5th** `[2024.09 - 2025.02]`
+- **Gachon University, Software Engineering** `[2018.03 - 2025.02]`
 
 <!--
 ## Algorithm
