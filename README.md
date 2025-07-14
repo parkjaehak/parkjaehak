@@ -17,7 +17,9 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
-  ![CSS](https://img.shields.io/badge/CSS-7B3FBF?style=flat-square&logo=CSS3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-800080?style=flat-square&logo=CSS3&logoColor=white)
+
 
 
 
