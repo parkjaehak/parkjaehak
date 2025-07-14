@@ -8,6 +8,7 @@
   ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F?logo=springsecurity&logoColor=white)
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
@@ -15,6 +16,10 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+
+  ![CSS](https://img.shields.io/badge/CSS-7B3FBF?style=flat-square&logo=CSS3&logoColor=white)
+
+
 
 
 
