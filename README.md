@@ -27,14 +27,14 @@
 
 
 ## Project
-- [StockPlus - 실시간 주식 시세 현황 크롬 익스텐션](https://github.com/parkjaehak/StockPlus) `[2025.06. - 진행 중]`
+- [StockPlus - 실시간 주식 시세 현황 크롬 익스텐션](https://github.com/parkjaehak/StockPlus) `[2025.06. - 2025.08.]`
 - [TaskFlow - 업무 통합 관리 솔루션 (Ticket Management System)](https://github.com/TaskFlow-CLAP/TaskFlow-Server) `[2025.01. - 2025.02.]`
 - [CodingText - 알고리즘 문제풀이 커뮤니티 서비스](https://github.com/Xeat-KEA/CodingText-FrontEnd) `[2024.09. - 2024.12.]`
 - [EduBill - 학원비 정산을 한눈에 확인할 수 있는 서비스](https://github.com/EduBill/edubill-api) `[2024.01. - 2024.08.]`
 
 
 ## Experience
-- **LG Aimers 7th** `[2025.07. - 진행 중]`
+- **LG Aimers 7th** `[2025.07. - 2025.08.]`
 - **Kakao Enterprise Software Academy 5th** `[2024.09. - 2025.02.]`
 - **Gachon University, Software Engineering** `[2018.03. - 2025.02.]`
 
